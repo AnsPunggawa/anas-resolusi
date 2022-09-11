@@ -1,7 +1,9 @@
 Rencana Belajar Javascript
 - Dasar-dasar JavaScript
-- DOM JavaScript
 - OOP JavaScript
 - Belajar NodeJS
 - Framework JavaScript
+  > AngularJS
+  > ReactJS
 - Buat proyek menggunakan JavaScript
+  > Membuat Form Login
