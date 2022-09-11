@@ -1,10 +1,12 @@
 Rencana Belajar Javascript
 
 - Dasar-dasar JavaScript
+- DOM JavaScript
+- Asynchronous JavaScript
 - OOP JavaScript
 - Belajar NodeJS
 - Framework JavaScript
-  > AngularJS
   > ReactJS
+  > VueJS
 - Buat proyek menggunakan JavaScript
-  > Membuat Form Login
+  > Login Form
