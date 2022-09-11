@@ -11,3 +11,4 @@ Rencana Belajar Javascript
   > AngularJS
 - Buat proyek menggunakan JavaScript
   > Login Form
+  > Jam Digital
