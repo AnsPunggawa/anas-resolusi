@@ -6,5 +6,6 @@ Rencana Belajar Javascript
 - Belajar NodeJS
 - Framework JavaScript
   > ReactJS
+  > VueJS
 - Buat proyek menggunakan JavaScript
   > Login Form
