@@ -1,4 +1,5 @@
 Anas Resolusi
 - Belajar Bahasa Pemrograman Javascript
-- Belajar ReactJS
+- Belajar Framework JavaScript
 - Belajar NodeJS
+- Mencari Judul Skripsi

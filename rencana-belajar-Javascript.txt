@@ -3,6 +3,10 @@ Rencana Belajar Javascript
 - Dasar-dasar JavaScript
 - DOM JavaScript
 - Asynchronous JavaScript
+  > AJAX
+  > Promise
+  > Fetch
+  > Async Await
 - OOP JavaScript
 - Belajar NodeJS
 - Framework JavaScript
@@ -11,3 +15,4 @@ Rencana Belajar Javascript
   > AngularJS
 - Buat proyek menggunakan JavaScript
   > Login Form
+  > Jam Digital
