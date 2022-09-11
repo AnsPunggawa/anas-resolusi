@@ -1,0 +1,6 @@
+Rencanan Belajar Javascript
+- Dasar-dasar JavaScript
+- DOM JavaScript
+- OOP JavaScript
+- Belajar NodeJS
+- Framework JavaScript
