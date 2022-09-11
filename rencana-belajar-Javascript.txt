@@ -8,5 +8,6 @@ Rencana Belajar Javascript
 - Framework JavaScript
   > ReactJS
   > VueJS
+  > AngularJS
 - Buat proyek menggunakan JavaScript
   > Login Form
