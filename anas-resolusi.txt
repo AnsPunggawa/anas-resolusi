@@ -1,0 +1,3 @@
+Anas Resolusi
+- Belajar Bahasa Pemrograman Javascript
+- Belajar ReactJS
